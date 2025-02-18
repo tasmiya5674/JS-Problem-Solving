@@ -1,0 +1,24 @@
+body {
+    text-align: center; 
+    font-family: Arial, sans-serif; 
+    background-color: azure;
+}
+.container { 
+    width: 250px; 
+    margin: auto; 
+    padding:10px 15px; 
+    border: 1px solid #003166;
+    background-color: #b3d7ff;
+}
+input, button {
+    width: 90%;
+    padding: 10px; 
+    margin: 5px 0;
+}
+button {
+    width: 100%;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
